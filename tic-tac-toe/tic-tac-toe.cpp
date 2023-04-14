@@ -179,6 +179,6 @@ int main()
         }
     }
     cout << "Press enter to exit...";
-    cin.get();
-    return 0;
+    
+    return cin.get();;
 }
