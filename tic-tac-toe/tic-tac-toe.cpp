@@ -180,5 +180,5 @@ int main()
     }
     cout << "Press enter to exit...";
     
-    return cin.get();;
+    return cin.get();
 }
