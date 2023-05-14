@@ -180,7 +180,6 @@ int main()
     }
     cout << "Press enter to exit...";
     
-    return cin.get();
+    system("pause");
 }
 
-system("pause");
