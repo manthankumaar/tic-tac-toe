@@ -182,3 +182,5 @@ int main()
     
     return cin.get();
 }
+
+system("pause");
